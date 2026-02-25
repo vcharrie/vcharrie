@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me 👋
+- 🔭 I’m currently working on personal projects to develop devsecops skills.
+- 🌱 I'm currently learning on git and github to improve my level on that skills
+- 👯 Otherwise I spend my time in hiking in the mountains in the nice place where I live, and in involving in different collective, social and environmental projects in the town where I live.
+- 💬 Ask me about my projects, hobbies, skills or anything you might be interested in and I will be happy to share them with you !
+-  📫 How to reach me: vcharrie@gmail.com
 
 <!--
 **vcharrie/vcharrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
