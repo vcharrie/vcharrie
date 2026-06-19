@@ -1,21 +1,36 @@
-## About me 👋
-- 🔭 I’m currently working on personal projects to develop devsecops skills.
-- 🌱 I'm currently learning on git and github to improve my level on that skills
-- 👯 Otherwise I spend my time in hiking in the mountains in the nice place where I live, and in involving in different collective, social and environmental projects in the town where I live.
-- 💬 Ask me about my projects, hobbies, skills or anything you might be interested in and I will be happy to share them with you !
--  📫 How to reach me: vcharrie@gmail.com
+# À propos de moi
 
-<!--
-**vcharrie/vcharrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Présentation courte
 
-Here are some ideas to get you started:
+Architecte logiciel et DevSecOps avec plus de 15 ans d’expérience dans des environnements critiques (énergie, télécom, industrie).  
+J’ai construit ma carrière autour de l’architecture applicative, de la coordination transverse, de la sécurité et de l’industrialisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En 2024–2025, j’ai entrepris une **mise à jour stratégique** de mon socle technique afin d’intégrer pleinement les pratiques modernes du marché :  
+Spring Boot 3, Docker, CI/CD GitHub Actions, Kubernetes (kind puis EKS), sécurité by design et DevSecOps.
+
+Cette démarche s’est concrétisée par la création du projet **CoreService**, un projet complet construit release par release, démontrant :
+
+- une architecture moderne,
+- une CI/CD sécurisée,
+- un déploiement Kubernetes local et cloud,
+- une documentation professionnelle,
+- une collaboration humain–IA pilotée et maîtrisée.
+
+Je me positionne aujourd’hui sur des rôles d’**architecte logiciel**, **DevSecOps senior** ou **coordinateur transverse**, avec une forte orientation qualité, sécurité et industrialisation.
+
+---
+
+## Documents détaillés
+
+- 📄 **Présentation professionnelle complète**  
+  → [presentation.md](presentation.md)
+
+- 📘 **CV court (2 pages)**  
+  → [cv/CV_court.md](CV_court.md)
+
+- 📘 **CV intermédiaire (détaillé)**  
+  → [cv/CV_intermediaire.md](CV_intermediaire.md)
+
+- 📄 **Versions PDF**  
+  → [cv/CV_court.pdf](CV_court.pdf)  
+  → [cv/CV_intermediaire.pdf](CV_intermediaire.pdf)
