@@ -1,112 +1,129 @@
-# Vincent Charrier
-**Architecte Logiciel & Coordination Technique**  
-**Repositionnement : Sécurité Opérationnelle / SSI Projets**
-
-📍 Grenoble (Seyssins)  
-📧 vcharrie@gmail.com  
-📱 +33 7 05 70 57  
-
----
-
-## 🎯 PROFIL SYNTHÉTIQUE
-
-Architecte logiciel et chef de projet technique avec **19 ans d’expérience** dans des environnements critiques (énergie, télécoms, industrie, secteur public).  
-Habitué aux **audits applicatifs**, à la **documentation technique**, à la **coordination multi‑équipes** et à la **conformité aux normes internes**.
-
-Je me repositionne aujourd’hui vers un rôle **SSI transverse / sécurité opérationnelle**, en capitalisant sur :  
-- une solide compréhension des environnements techniques,  
-- une pratique régulière des audits et de la qualité,  
-- une montée en compétence structurée sur **ISO 27001**, **EBIOS RM**, **PSSI**,  
-- ma capacité à faire le lien entre **équipes techniques, DSI, exploitation et sécurité**.
+# Vincent Charrier  
+**Consultant SSI – Architecte Logiciel – DevSecOps**  
+18 ans d’expérience  
+📧 charrier_vincent@proton.me  
+📱 07 88 05 70 57  
+🔗 linkedin.com/in/vincentcharrier  
+🔗 github.com/vcharrie  
 
 ---
 
-## 🛡️ COMPÉTENCES CLÉS
+# 🎯 Profil
 
-### **Sécurité & Conformité**
-- Audits applicatifs, analyse d’impacts, recommandations  
-- Sécurisation d’environnements (accès, configurations, supervision)  
-- Documentation technique (DAT, normes internes, capitalisation)  
-- Sensibilisation et accompagnement des équipes  
+Architecte logiciel senior avec 18 ans d’expérience dans des environnements critiques (énergie, télécoms, industrie, secteur public).  
+Repositionnement vers un rôle de **Consultant SSI transverse**, en capitalisant sur :
 
-### **Pilotage & Coordination**
-- Interface projets / DSI / exploitation / sécurité  
-- Gestion de projet, animation, reporting  
-- Structuration des processus et de la qualité  
+- un socle solide en **architecture logicielle**,  
+- une expérience éprouvée en **coordination transverse**,  
+- une pratique avancée du **DevSecOps**,  
+- une montée en compétence structurée en **ISO 27001**, **EBIOS RM**, **PSSI ANSSI**.
 
-### **Architecture & Ingénierie**
-- Architecture logicielle & applicative  
-- Déploiement, intégration, supervision  
-- Environnements : Windows Server, Linux, Postgres, Jenkins, Qlik Sense  
-- Cloud & PaaS : Cloud Foundry, Openshift  
-- Dev : Java/Spring Boot, Angular (lecture & compréhension)
+Démarche **Secure by Design**, intégration des exigences SSI dans toutes les phases du cycle de vie projet.  
+Projet personnel : pipeline CI/CD sécurisé (Spring Boot, Docker, Kubernetes, EKS).  
+→ github.com/vcharrie/coreservice
 
 ---
 
-## 🧪 EXPÉRIENCES RÉCENTES
+# 🛡️ Compétences clés
 
-### **Architecte Logiciel / Coordination Transverse – EDF Hydro (2019–2024)**
-- Architectures DataViz / Data Warehouse conformes aux normes internes  
-- Sécurisation des environnements : accès, Postgres, supervision  
-- Pilotage d’audits applicatifs et recommandations  
-- Rédaction DAT, documentation technique, capitalisation  
-- Interface projets / DSI / exploitation / sécurité  
+**Sécurité applicative & SSI**  
+- Analyse d’impacts sécurité, audits applicatifs, recommandations  
+- Durcissement PostgreSQL, sécurisation des flux (SSL, LDAP)  
+- Documentation sécurité (DAT, schémas), conformité SSI interne  
+- Intégration Secure SDLC, sensibilisation équipes  
 
-### **Chef de Projet Technique – Orange (2018)**
-- Accompagnement projets sur plateforme PaaS (Cloud Foundry)  
-- Analyse des impacts architecture / sécurité / organisation  
-- Pilotage du déploiement d’une solution CaaS en production  
-- Coordination multi‑équipes et gouvernance opérationnelle  
+**Architecture & Ingénierie logicielle**  
+- Architecture hexagonale, 12‑Factor  
+- Conception DataViz / DataWarehouse  
+- Optimisation performances (charge, mémoire, SQL)  
+- Gestion multi‑environnements (dev → prod, CI/CD, PRA)  
 
-### **Développeur Fullstack / Référent Technique – Adeunis (2017)**
-- Définition du socle technologique (Spring Boot, Angular)  
-- Développement de fonctionnalités sensibles (authentification, autorisations)  
-- Support technique, bonnes pratiques, revues de code  
-- Rédaction du dossier d’architecture technique  
-
-### **Chef de Projet Développement / OPS Support Manager – Schneider Electric (2015–2016)**
-- Mise en place de Scrum, coordination des releases  
-- Supervision des mises en production et conformité des livrables  
-- Interface dev / tests / exploitation  
-
-### **Scrum Master / Coordinateur Technique – Schneider Electric (2014–2015)**
-- Migration technique AngularJS/J2EE  
-- Mise en place CI/CD, intégration, environnements  
-- Support aux développeurs, capitalisation  
+**Coordination transverse & pilotage**  
+- Interface DSI / exploitation / infra / sécurité  
+- Animation ateliers techniques, gouvernance, reporting  
+- Structuration des processus et documentation  
 
 ---
 
-## 🕓 PARCOURS ANTÉRIEUR (1 ligne par expérience)
+# 🛠️ Environnements techniques
 
-### **Architecte Solution / Référent Technique – Voyages SNCF Technologies (2011–2012)**  
-Support production, industrialisation des livraisons, migration datacenter, audits techniques, documentation.
-
-### **Consultant Technique – OMPI (2010)**  
-Développement d’applications critiques, sécurisation de flux, intégration J2EE, support exploitation.
-
-### **Ingénieur d’Études – DGFIP (2008–2009)**  
-Développement et optimisation d’applications sensibles, tests d’intégration/performance, documentation.
-
-### **Consultant Technique – DAMGM (2005–2007)**  
-Développement d’applications critiques, web services, migrations techniques, interactions métier/exploitation.
+Java 21, Spring Boot 3.x, Spring Security 6.x, Angular  
+GitHub Actions, Jenkins, Maven, Git  
+Docker (runtime durci), Kubernetes (kind, EKS), Kustomize  
+PostgreSQL (durci), Oracle  
+Linux (CentOS, RHEL), Windows Server  
+Qlik Sense, Nginx, SSL/LDAP  
+ISO 27001, EBIOS RM, PSSI ANSSI, OWASP, CIS Benchmark K8S  
 
 ---
 
-## 🎓 FORMATION & CERTIFICATIONS
+# 🧭 Expériences professionnelles
 
-- **DESS Gestion de Projet & Innovation – IAE Nantes (2004)**  
-- **Diplôme Ingénieur Informatique – ENIB (2003)**  
-- **DUT GEII – IUT Nantes (2000)**  
+## **Architecte logiciel / Coordination transverse — EDF HYDRO**  
+**2020 – 2024**
 
-### **Certifications / Sécurité**
-- Agile Scrum Master (2015)  
-- Azure AZ‑900 (11/2025)  
-- PSSI ANSSI SecNum (12/2025*)  
-- ISO 27001 – auto‑formation structurée  
-- EBIOS RM – auto‑formation  
+Évolution et sécurisation des architectures **DataViz** et **DataWarehouse** dans un environnement critique.  
+Migrations techniques (serveurs, CI/CD), conformité architecture/sécurité, coordination transverse.
+
+- Optimisation PostgreSQL (mémoire, WAL, I/O), partitionnement disques  
+- Refonte CI/CD, structuration environnements (dev → prod), supervision  
+- Durcissement Postgres, conformité SSI interne, audits, DAT  
+- Interface DSI / exploitation / infra / sécurité  
+
+**Environnements :** Windows Server, CentOS, PostgreSQL, Jenkins, Qlik Sense, Git  
 
 ---
 
-## 🌐 LANGUES
-- Français  
-- Anglais  
+## **Chef de projet technique — ORANGE**  
+**2019 – 2020**
+
+Migration des projets internes vers la plateforme **Cloud Foundry**.  
+Analyse d’impacts techniques, coordination transverse, intégration CaaS.
+
+- Analyse architecture/performance  
+- Gouvernance DIOD, animation technique  
+- Volet sécurité : analyses d’impacts SSI, conformité standards internes  
+
+**Environnements :** Cloud Foundry, Pivotal CF, OpenShift, Linux, Git  
+
+---
+
+## **Développeur Fullstack / Référent technique — ADEUNIS**  
+**2018 – 2019**
+
+Socle Spring Boot / Angular pour plateforme IoT.  
+Authentification, autorisations, gestion des accès.
+
+- Référent technique : revues de code, support, dossier d’architecture  
+- Volet sécurité : contrôles d’accès, bonnes pratiques secure coding  
+
+**Environnements :** Spring Boot, Java, Angular 2, PostgreSQL, Jenkins, Git  
+
+---
+
+## **Schneider Electric — rôles successifs (2014 – 2018)**  
+Scrum Master, coordinateur technique, puis chef de projet développement.
+
+- Pilotage Scrum, coordination transverse  
+- Structuration CI/CD, supervision mises en production  
+- Volet sécurité : SSO, reverse proxy, cloisonnement, durcissement PostgreSQL  
+
+**Environnements :** AngularJS, Java/J2EE, Tomcat, PostgreSQL, Jenkins  
+
+---
+
+## **Autres expériences (2005 – 2014)**  
+Orange, Voyages SNCF, DGFIP, OMPI, DAMGM  
+Développement Java/J2EE, optimisation performances, intégration continue, architecture sécurisée dans des environnements critiques.
+
+---
+
+# 🎓 Formations & certifications
+
+- Ingénieur Informatique — ENIB  
+- DESS Gestion de Projet Innovation — IAE Nantes  
+- Scrum Master  
+- Azure AZ‑900 (2025)  
+- PSSI ANSSI SecNum (2025*)  
+- ISO 27001 — auto‑formation structurée  
+- EBIOS RM — auto‑formation Club EBIOS

@@ -1,297 +1,212 @@
-# Vincent XXXXX
-Architecte logiciel · DevSecOps · Coordination transverse · Cloud & Plateformes  
-Grenoble, France  
-vincent.xxx@mail.com  
-GitHub : https://github.com/xxxx  
-LinkedIn : https://linkedin.com/in/xxxx  
+# Vincent Charrier  
+**Consultant SSI – Architecte Logiciel – DevSecOps**  
+18 ans d’expérience  
+📧 charrier_vincent@proton.me  
+📱 07 88 05 70 57  
+🔗 https://www.linkedin.com/in/vincentcharrier/  
+🔗 https://github.com/vcharrie/
 
 ---
 
-# PROFIL PROFESSIONNEL
-Architecte logiciel et coordinateur transverse avec plus de 15 ans d’expérience dans la conception d’architectures, la sécurité, l’industrialisation, la gestion de plateformes multi‑environnements et la coordination d’équipes techniques.
+# 🎯 Profil
 
-Expert des environnements critiques (énergie, télécom, industrie), des chaînes CI/CD, de la qualité logicielle et du pilotage transverse.
+Architecte logiciel et chef de projet technique avec 18 ans d'expérience dans des environnements critiques (énergie, télécoms, industrie, secteur public).
 
-Positionnement naturel : **architecture**, **DevSecOps**, **plateformes cloud**, **coordination DSI**.
+Je me repositionne sur un rôle de **Consultant SSI**, en capitalisant sur une double compétence :
 
----
+- **Technique** : conception d’architectures logicielles adaptées aux besoins, conformes aux cadres méthodologiques DSI / centres de services, supervision de la mise en œuvre sur tout le cycle de vie.
+- **Gestion de projet** : pilotage transverse (développement, exploitation, DSI), structuration et amélioration des processus d’ingénierie logicielle.
 
-# COMPÉTENCES CLÉS
+Cette base me permet d’intégrer concrètement les mesures de sécurité issues des plans de traitement de risques dans chaque phase du cycle de vie projet, dans une démarche **Secure by Design**.
 
-### Architecture & Développement
-Java, J2EE, Spring, Angular, architectures modulaires, DataViz, Data Warehouse
+J’ai complété mes compétences SSI par :
 
-### DevSecOps & Industrialisation
-CI/CD, Jenkins, Git, pipelines, automatisation, qualité logicielle
+- auto‑formations structurées : **ISO 27001**, **EBIOS RM**, **PSSI ANSSI SecNum**
+- réalisation d’un projet complet de **pipeline CI/CD sécurisé** (Java Spring Boot, Docker, Kubernetes, EKS), selon une démarche d’ingénierie logicielle standardisée.
 
-### Cloud & Plateformes
-Openshift, Cloud Foundry, PaaS, CaaS, conteneurisation, multi‑environnements
-
-### Données & SGBD
-PostgreSQL, Oracle, optimisation, sécurité, durcissement, gouvernance des accès
-
-### Méthodes & Pilotage
-Scrum, coordination transverse, audits, DAT, gouvernance technique
-
-### Systèmes
-Linux (CentOS, RHEL), Windows Server
+🔗 Projet : https://github.com/vcharrie/coreservice
 
 ---
 
-<div style="page-break-after: always;"></div>
+# 🛡️ Compétences
 
-# EXPÉRIENCE PROFESSIONNELLE
-
-# EDF CIH / S21 / Data Factory  
-**Architecte logiciel transverse – Coordination DSI**  
-**Thales – 2019 à 2024**
-
-## Contexte
-Intervention au sein du Centre Ingénierie Hydraulique d’EDF, dans un environnement critique et fortement normé. Mission couvrant la Data Factory, la DataViz (Qlik Sense), la sécurité, la gestion des environnements et la coordination transverse.
-
-## Rôle
-Architecte logiciel transverse, garant de la cohérence technique, de la sécurité, de la qualité et du fonctionnement de la plateforme. Interface entre DSI, sécurité, exploitation, projets et utilisateurs.
-
-## Responsabilités détaillées
-
-### Architecture & DataViz
-- Conception de l’architecture DataViz Qlik Sense  
-- Structuration des flux, modélisation, optimisation  
-- Mise en place des bonnes pratiques Qlik  
-- Support aux équipes projets
-
-### Data Warehouse & gestion des données
-- Conception et évolution du Data Warehouse centralisé  
-- Optimisation SQL, gestion des dépendances  
-- Processus d’alimentation et contrôle qualité
-
-### Sécurité & conformité
-- Rédaction du DAT selon les normes EDF  
+## Sécurité applicative & Secure SDLC
+- Intégration des exigences sécurité dans le cycle de vie projet  
+- Analyse d’impacts sécurité (architecture, spécifications, déploiement)  
+- Audits applicatifs, recommandations, documentation sécurité  
+- Sécurisation d’environnements (accès, configurations, supervision)  
 - Durcissement PostgreSQL (rôles, privilèges, réseau)  
-- Analyse de risques, conformité SSI  
-- Participation aux audits applicatifs
+- Sensibilisation et accompagnement des équipes  
 
-### Coordination transverse & gouvernance
-- Interface DSI / sécurité / exploitation / projets  
-- Animation des échanges techniques  
-- Gestion des dépendances et arbitrages  
-- Support aux équipes projets
-
-### Gestion de la plateforme multi‑environnements
-- Pilotage des environnements (dev → prod)  
-- Gestion des releases, coordination exploitation  
-- Supervision incidents, PRA, restaurations, migrations
-
-## Réalisations majeures
-- Architecture DataViz robuste et industrialisée  
-- Data Warehouse centralisé conforme DSI  
-- Sécurité PostgreSQL renforcée  
-- Audits applicatifs réussis  
-- Stabilisation de la plateforme multi‑environnements
-
-### Environnements techniques
-Windows Server, CentOS, PostgreSQL, Jenkins, Qlik Sense, Git, SQL
+## Ingénierie logicielle & Coordination projet
+- Architecture logicielle (hexagonale, 12‑Factor)  
+- Conception DataViz / DataWarehouse (modélisation, flux, SQL)  
+- Gestion multi‑environnements (dev → prod, releases, PRA)  
+- Authentification & sécurisation des flux (SSL, LDAP, services web)  
+- Optimisation performances (charge, mémoire, temps de réponse)  
+- Coordination multi‑équipes, interface DSI / exploitation / sécurité  
+- Gestion de projet, animation, reporting  
+- Structuration des processus, qualité, documentation (DAT, specs)  
 
 ---
 
-<div style="page-break-after: always;"></div>
+# 🎓 Formations & Certifications
 
-# Orange Labs – Programme DIOD (PaaS interne)  
-**Chef de projet technique**  
-**Thales – 2018**
-
-## Contexte
-Plateforme PaaS interne basée sur Cloud Foundry, avec enjeux de gouvernance, industrialisation et accompagnement des projets utilisateurs.
-
-## Contributions principales (semi‑détaillé)
-- Analyse des besoins des projets internes souhaitant migrer sur le PaaS  
-- Étude des impacts techniques : architecture, sécurité, performances  
-- Préconisations techniques et accompagnement à l’adoption  
-- Analyse des interactions Cloud Foundry / SI Orange  
-- Pilotage de l’intégration d’une solution CaaS complémentaire  
-- Participation à la gouvernance opérationnelle DIOD  
-- Animation des échanges techniques et gestion des dépendances
-
-## Réalisations majeures
-- Adoption réussie du PaaS par plusieurs projets  
-- Intégration d’une solution CaaS améliorant la flexibilité  
-- Structuration de la gouvernance technique
-
-### Environnements techniques
-Cloud Foundry, Pivotal CF, Openshift, Linux, Git
+- Ingénieur Informatique — ENIB (2003)  
+- DESS Gestion de Projet Innovation — IAE Nantes (2004)  
+- Agile Scrum Master (2016)  
+- Azure AZ‑900 (11/2025)  
+- PSSI ANSSI SecNum (12/2025*)  
+- ISO 27001 — auto‑formation structurée  
+- EBIOS RM — auto‑formation Club EBIOS  
 
 ---
 
-<div style="page-break-after: always;"></div>
+# 🛠️ Environnements techniques
 
-# Adeunis – Plateforme IoT  
-**Référent technique / Développeur Full‑stack**  
-**Thales – 2017**
-
-## Contexte
-Développement d’une plateforme de Device Management IoT (Spring Boot + Angular), avec enjeux de performance, qualité logicielle et structuration du socle technique.
-
-## Contributions principales (semi‑détaillé)
-- Conception du socle backend Spring Boot  
-- Développement de fonctionnalités critiques (capteurs, utilisateurs, droits, données)  
-- Développement d’écrans Angular 2  
-- Support technique transverse (backend, frontend, API, tests)  
-- Revue de code, documentation, bonnes pratiques  
-- Amélioration continue de la qualité logicielle
-
-## Réalisations majeures
-- Socle backend robuste et structuré  
-- Fonctionnalités critiques livrées et adoptées  
-- Documentation claire et cohérente  
-- Montée en compétence rapide de l’équipe
-
-### Environnements techniques
-Spring Boot, Java, Angular 2, TypeScript, PostgreSQL, REST, Git, Jenkins
+**Langages & Frameworks** : Java 21, Spring Boot 3.x, Tomcat 10.x, Spring Security 6.x, J2EE, Angular  
+**DevSecOps** : SonarCloud, Checkstyle, PMD, SpotBugs, Trivy, CycloneDX (SBOM), VEX  
+**CI/CD** : GitHub Actions, GHCR, Jenkins, Maven, Git  
+**Conteneurs** : Docker (runtime durci), Sealed Secrets  
+**Kubernetes** : kind, Kustomize, Ingress NGINX, SecurityContext, Probes, EKS  
+**Cloud** : AWS (EKS), Azure AZ‑900, Cloud Foundry, OpenShift  
+**Bases de données** : PostgreSQL (durci), Oracle  
+**Systèmes** : Linux (CentOS, RHEL), Windows Server  
+**Outils** : Qlik Sense, Nginx, SSL/LDAP, JIRA  
+**Normes & Référentiels** : ISO 27001, EBIOS RM, PSSI ANSSI, OWASP, Secure SDLC, CIS Benchmark K8S  
 
 ---
 
-<div style="page-break-after: always;"></div>
+# 🧭 Expériences professionnelles
 
-# Schneider Electric – Plateforme interne  
-**Chef de projet développement / OPS Support Manager**  
-**Thales – 2015 à 2016**
+## Approfondissement & formalisation des compétences SSI  
+**Sep 2024 – Juin 2026**
 
-## Contexte
-Projet de développement et d’exploitation d’une plateforme interne Schneider Electric, avec enjeux de coordination transverse, qualité logicielle, gestion des releases et amélioration continue.
-
-## Rôle
-Pilotage Scrum, coordination transverse, gestion des releases, support RUN, qualité logicielle et structuration des processus.
-
-## Responsabilités détaillées
-- Mise en place et animation du cadre Scrum  
-- Coordination dev / tests / exploitation / PO / management  
-- Gestion du backlog, arbitrages, reporting  
-- Planification et pilotage des releases  
-- Analyse et résolution des incidents RUN  
-- Amélioration continue du RUN (documentation, automatisation)  
-- Mise en place de bonnes pratiques de développement  
-- Contribution à la chaîne CI/CD  
-- Documentation technique et fonctionnelle
-
-## Réalisations majeures
-- Cadre Scrum efficace et adopté  
-- Processus de livraison standardisé  
-- Amélioration de la qualité logicielle  
-- Coordination fluide entre équipes  
-- Documentation claire et maintenue
-
-### Environnements techniques
-Scrum, JIRA, Java/J2EE, Jenkins, Git, Linux
+- Conseil indépendant (associations, collectivités)  
+- Montée en compétence structurée : ISO 27001, EBIOS RM, PSSI ANSSI SecNum, Azure AZ‑900  
+- Projet **CoreService** : pipeline CI/CD sécurisé, Spring Boot 3, Docker, Kubernetes, EKS  
+  → https://github.com/vcharrie/coreservice  
 
 ---
 
-<div style="page-break-after: always;"></div>
+## Architecte logiciel / Coordination transverse  
+**EDF HYDRO — Oct 2020 – Juin 2024**
 
-# Schneider Electric – Migration technologique  
-**Scrum Master / Coordinateur technique**  
-**Thales – 2014 à 2015**
+- Évolution et sécurisation des architectures DataViz et DataWarehouse dans un environnement critique.  
+- Migrations techniques (serveurs DataViz, DataWarehouse, CI/CD), conformité architecture/sécurité.  
+- Optimisation Postgres (mémoire, WAL, I/O), partitionnement disques.  
+- Refonte CI/CD, structuration des environnements (dev → prod), supervision.  
+- Durcissement Postgres, conformité SSI interne, analyses de risques, audits, DAT, schémas.  
+- Coordination transverse : DSI, exploitation, infra, sécurité.  
 
-## Contexte
-Migration d’un socle Durandal/.NET vers AngularJS + Java J2EE. Enjeux : structuration des environnements, industrialisation CI/CD, montée en compétence collective.
-
-## Responsabilités détaillées
-- Installation et configuration des environnements (Git, Jenkins, CentOS, serveurs applicatifs)  
-- Structuration de la chaîne CI/CD  
-- Support aux développeurs (frontend + backend)  
-- Mise en place de conventions de code  
-- Animation des cérémonies Scrum  
-- Documentation technique (API, architecture, processus)
-
-## Réalisations majeures
-- Migration technologique réussie  
-- Environnements de développement robustes  
-- Chaîne CI/CD industrialisée  
-- Qualité du code améliorée  
-- Documentation complète et adoptée
-
-### Environnements techniques
-AngularJS, Java J2EE, Tomcat, Jenkins, Git, CentOS
+**Environnements** : Windows Server, CentOS, PostgreSQL, Jenkins, Qlik Sense, Git, SQL  
 
 ---
 
-<div style="page-break-after: always;"></div>
+## Chef de projet technique  
+**ORANGE — Mai 2019 – Oct 2020**
 
-# Orange Labs – IOSW & Kermit  
-**Ingénieur d’étude senior / Référent technique**  
-**Thales – 2013 à 2014**
+- Migration des projets internes vers la plateforme PaaS Cloud Foundry.  
+- Analyse d’impacts techniques, coordination transverse, intégration CaaS.  
+- Analyse architecture/performance, dépendances inter‑équipes.  
+- Gouvernance DIOD, animation technique.  
+- Volet sécurité : analyses d’impacts SSI, conformité standards internes.  
 
-## Contributions principales (semi‑détaillé)
-- Développement J2EE pour l’infrastructure d’authentification IOSW  
-- Analyse de performances (temps de réponse, mémoire, charge)  
-- Optimisation du code et des configurations serveur  
-- Intégration d’outils sur Openshift (Piwik, PhpMyAdmin, Php‑LDAP)  
-- Automatisation des installations et configurations  
-- Support transverse (dev, archi, sécurité, exploitation)  
-- Documentation technique (procédures, architecture, exploitation)
-
-## Réalisations majeures
-- Amélioration notable des performances IOSW  
-- Intégration réussie d’outils sur Openshift  
-- Automatisation des installations  
-- Documentation claire et maintenable
-
-### Environnements techniques
-Java/J2EE, Tomcat, DataPower, SSL, nginx, MySQL, Openshift, Linux
+**Environnements** : Cloud Foundry, Pivotal CF, OpenShift, Linux, Git  
 
 ---
 
-<div style="page-break-after: always;"></div>
+## Développeur Fullstack / Référent technique  
+**ADEUNIS — Avril 2018 – Mai 2019**
 
-# PARCOURS ANTÉRIEUR (SYNTHÈSE)
+- Définition du socle Spring Boot / Angular, développement fonctionnalités critiques IoT.  
+- Authentification, autorisations, gestion des accès.  
+- Référent technique : revues de code, support, dossier d’architecture.  
+- Volet sécurité : contrôles d’accès, bonnes pratiques de développement sécurisé.  
 
-## Voyages‑SNCF Technologies – Architecte solution / Référent technique (Euronet)  
-**Capgemini – 2011 à 2012**  
-Système critique de distribution ferroviaire.  
-- Support production et exploitation, analyse d’incidents et de performances  
-- Industrialisation des livraisons (Maven, scripts, procédures)  
-- Participation à une migration datacenter et aux études d’architecture
-
-## DGFIP – Ingénieur d’études / Référent technique (Projet RSP)  
-**Capgemini – 2010 à 2011**  
-Référentiel des Structures Partenaires.  
-- Conception d’un socle technique complet  
-- Développement d’un générateur de code EMF/Acceleo  
-- Mise en place de l’intégration continue (Hudson) et support transverse
-
-## OMPI (Genève) – Ingénieur d’étude / Développeur Java J2EE  
-**Thales – 2007 à 2009**  
-Applications internes de gestion de procédures et documents.  
-- Développement de fonctionnalités métier Java J2EE  
-- Intégration avec les systèmes existants, optimisation de performances  
-- Documentation technique et support aux équipes internes
-
-## DGFIP – Ingénieur en développement Java/J2EE  
-**Thales – 2005 à 2007**  
-- Développement de modules applicatifs et services web (Axis2)  
-- Génération documentaire (XSL‑FO / FOP)  
-- Intégration, tests, documentation technique
-
-## DAMGM – Ingénieur d’étude / Développeur Java J2EE  
-**Capgemini – 2005**  
-- Développement Java J2EE dans un contexte institutionnel  
-- Respect des normes, qualité logicielle, documentation
+**Environnements** : Spring Boot, Java, Angular 2, PostgreSQL, Jenkins, Git  
 
 ---
 
-<div style="page-break-after: always;"></div>
+## Chef de projet développement / OPS Support Manager  
+**SCHNEIDER ELECTRIC — Juin 2015 – Avril 2018**
 
-# SYNTHÈSE & VALEUR AJOUTÉE
+- Pilotage Scrum, coordination transverse (dev, tests, exploitation, PO).  
+- Gestion des releases, support RUN, incidents.  
+- Supervision des mises en production, conformité livrables.  
+- Amélioration continue : CI/CD, documentation.  
+- Volet sécurité : intégration SSO, reverse proxy, cloisonnement, durcissement PostgreSQL.  
 
-Professionnel expérimenté avec plus de 15 ans d’expertise en **architecture logicielle**, **DevSecOps**, **coordination transverse**, **gestion de plateformes** et **industrialisation**.
-
-Compétences clés :
-- Conception d’architectures robustes et évolutives  
-- Industrialisation, CI/CD, automatisation, qualité logicielle  
-- Coordination transverse entre équipes techniques, DSI, sécurité et exploitation  
-- Gestion d’environnements complexes multi‑projets  
-- Documentation, pédagogie, support technique  
-- Stabilisation et professionnalisation de plateformes existantes  
-
-Positionnement naturel : **architecte logiciel**, **référent technique**, **coordinateur transverse**, **expert DevSecOps**.
+**Environnements** : AngularJS, Java/J2EE, PostgreSQL, Jenkins, Git, JIRA, Linux  
 
 ---
+
+## Scrum Master / Coordinateur technique  
+**SCHNEIDER ELECTRIC — Jan 2014 – Mai 2015**
+
+- Migration Durandal/.NET → AngularJS + Java J2EE.  
+- Mise en place environnements dev (Git, Jenkins, CentOS).  
+- Structuration CI/CD : builds, tests, packaging, déploiements.  
+- Support transverse, revues de code, conventions techniques.  
+- Volet sécurité : conformité architecture DSI, reverse proxy, SSL/TLS, SSO, sauvegardes.  
+
+**Environnements** : AngularJS, Java J2EE, Tomcat, PostgreSQL, Jenkins, Git, CentOS  
+
+---
+
+## Ingénieur d’étude senior / Référent technique  
+**ORANGE — Jan 2013 – Jan 2014**
+
+- Développement modules J2EE sur infrastructure d’authentification IOSW.  
+- Analyse performances, optimisation code & configurations.  
+- Intégration outils sur OpenShift (Kermit).  
+- Support transverse dev / architecture / sécurité / exploitation.  
+- Volet sécurité : SSL, certificats, proxy inverse, DataPower.  
+
+**Environnements** : Java/J2EE, Tomcat, DataPower, SSL, Nginx, MySQL, OpenShift, Linux, Git  
+
+---
+
+## Architecte solution / Référent technique  
+**VOYAGES SNCF TECHNOLOGIES — Fév 2011 – Sept 2012**
+
+- Études d’architectures sur système critique Euronet (distribution ferroviaire).  
+- Support production, diagnostic incidents, performances.  
+- Industrialisation livraisons : Maven, procédures déploiement.  
+- Migration datacenter : WebSphere/Tomcat, tests, performances.  
+- Volet sécurité : contraintes disponibilité, cloisonnement réseau, données clients.  
+
+**Environnements** : Java/J2EE, WebSphere, Tomcat, Maven, Oracle, Linux  
+
+---
+
+## Ingénieur d’études / Référent technique  
+**DGFIP — Jan 2010 – Fév 2011**
+
+- Conception socle technique J2EE, générateur de code EMF/Acceleo.  
+- Mise en place intégration continue (Hudson).  
+- Environnement public fortement normé.  
+
+---
+
+## Consultant technique  
+**OMPI — Sep 2007 – Déc 2009**
+
+- Développement applications internes de gestion documentaire.  
+- Exigences qualité, traçabilité, conformité.  
+
+---
+
+## Ingénieur en développement / Architecte junior  
+**DGFIP — Jan 2006 – Sep 2007**
+
+- Services web SOAP (Axis2), génération documentaire XSL‑FO/FOP.  
+- Intégration, tests, respect strict des normes ministérielles.  
+
+---
+
+## Ingénieur d’étude / Développeur Java J2EE  
+**DAMGM — Jan 2005 – Déc 2005**
+
+- Développement modules applicatifs dans un contexte institutionnel maritime.  
+- Qualité logicielle, documentation, intégration.

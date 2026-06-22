@@ -25,12 +25,11 @@ Je me positionne aujourd’hui sur des rôles d’**architecte logiciel**, **Dev
 - 📄 **Présentation professionnelle complète**  
   → [presentation.md](presentation.md)
 
-- 📘 **CV court (2 pages)**  
-  → [CV_court.md](cv/cv_court.md)
-
 - 📘 **CV intermédiaire (détaillé)**  
   → [cv/CV_intermediaire.md](cv/cv_intermediaire.md)
+  
+- 📘 **CV court**  
+  → [cv/CV_court.md](cv/cv_court.md)
 
 - 📄 **Versions PDF**  
-  → [cv/CV_court.pdf](cv/cv_court.pdf)  
   → [cv/CV_intermediaire.pdf](cv/cv_intermediaire.pdf)
