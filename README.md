@@ -4,35 +4,31 @@
 
 Architecte logiciel avec plus de 18 ans d’expérience dans des environnements critiques (énergie, télécom, industrie), j’ai construit ma carrière autour de l’architecture applicative, de la coordination transverse, de la sécurité et de l’industrialisation.
 
-En 2025, j’ai entrepris une mise à jour stratégique de mon socle technique pour intégrer pleinement les pratiques modernes du marché : Spring Boot 3, Docker, CI/CD GitHub Actions, Kubernetes (kind puis EKS), sécurité by design, supply chain security et DevSecOps.
+En 2025, j’ai entrepris une mise à jour stratégique de mon socle technique pour intégrer pleinement les pratiques modernes du marché : Spring Boot 3, Docker, CI/CD GitHub Actions, Kubernetes (kind puis EKS), sécurité applicative, supply chain security et DevSecOps.
 
-Cette démarche s’est concrétisée par la création du projet **CoreService**, un projet complet construit release par release, démontrant :
+Cette démarche s’est concrétisée par la réalisation d’un **projet complet d’ingénierie logicielle**, construit release par release, démontrant :
 
 - une architecture moderne et documentée,
 - une CI/CD sécurisée (analyse statique, SBOM, Trivy, VEX),
 - un déploiement Kubernetes local et cloud,
 - une documentation professionnelle,
-- une démarche Secure by Design transverse,
+- une démarche Secure by Design centrée sur l’architecture, la sécurité applicative, la CI/CD et l’exécution,
 - une collaboration humain–IA pilotée et maîtrisée.
 
 Aujourd’hui, je me positionne principalement sur un rôle de **Consultant SSI transverse**, en m’appuyant sur mon expérience d’architecte logiciel et mes compétences DevSecOps. Je reste également ouvert à des postes d’architecte orienté sécurité ou de coordinateur transverse, où la qualité, la sécurité et l’industrialisation sont au cœur des enjeux.
 
 ---
 
-# Démarche Secure by Design transverse
+# Démarche Secure by Design
 
-Le projet CoreService applique une démarche **Secure by Design** couvrant l’ensemble de la chaîne de valeur logicielle :
+La démarche mise en œuvre repose sur l’intégration de la sécurité **dans les phases que je maîtrise réellement** :
 
-**Stratégie → GRC → Architecture → Sécurité applicative → CI/CD → Sécurité d’exécution → Sécurité infrastructure**
+**Architecture → Sécurité applicative → CI/CD → Sécurité d’exécution → Sécurité infrastructure**
 
-Cette approche permet d’intégrer la sécurité dès la conception, de manière cohérente, industrialisée et transverse, en reliant les exigences stratégiques aux mécanismes techniques concrets.
+Elle ne prétend pas couvrir la stratégie ou la GRC organisationnelle, mais se concentre sur l’application concrète des bonnes pratiques de sécurité dans un projet d’ingénierie logicielle.  
+Les futures releases prévoient d’étendre cette démarche en articulant les exigences sécurité applicatives avec les exigences issues de la GRC (NIS2, analyses de risques) et de la gouvernance/stratégie.
 
 ## Articulation des domaines
-
-### Stratégie & GRC
-- Identification des risques et exigences de sécurité,
-- Alignement avec les objectifs DSI,
-- Définition des contraintes transverses.
 
 ### Architecture logicielle
 - Conception d’une architecture moderne (Spring Boot 3, Docker, Kubernetes),
@@ -41,7 +37,7 @@ Cette approche permet d’intégrer la sécurité dès la conception, de manièr
 
 ### Sécurité applicative
 
-La sécurité applicative est intégrée via un processus en trois niveaux :
+La sécurité applicative est intégrée via un processus structuré :
 
 1. **Fiches sécurité**  
    - Identification des exigences sécurité par composant,
@@ -73,13 +69,13 @@ La sécurité applicative est intégrée via un processus en trois niveaux :
 
 # Collaboration humain–IA (contrôle croisé)
 
-Le projet CoreService intègre une démarche innovante de collaboration humain–IA :
+La démarche intègre un modèle innovant de collaboration humain–IA :
 
-- **Copilot** est utilisé pour générer du code, des architectures, des documents et des propositions techniques.
-- **Claude** est utilisé comme IA de contrôle : vérification sécurité, cohérence, conformité, qualité documentaire.
-- **L’humain arbitre systématiquement** entre les deux, garantissant la maîtrise, la cohérence et la sécurité des livrables.
+- une IA de génération (code, architectures, documents),
+- une IA de contrôle (sécurité, cohérence, conformité, qualité),
+- un arbitrage humain systématique pour garantir la maîtrise et la robustesse des livrables.
 
-Ce principe de **contrôle croisé IA → IA**, supervisé par l’humain, reproduit un modèle de double validation utilisé dans les environnements critiques et renforce la robustesse de la démarche Secure by Design.
+Ce principe de **contrôle croisé IA → IA**, supervisé par l’humain, renforce la qualité de la démarche Secure by Design.
 
 ---
 
@@ -99,7 +95,7 @@ Ce processus reproduit les pratiques d’une DSI moderne et démontre une capaci
 
 # Publication contrôlée
 
-Le projet **n’est pas encore publié intégralement**.
+Le projet **n’est pas publié intégralement**.
 
 Pour des raisons de confidentialité et de protection des artefacts :
 
@@ -137,7 +133,3 @@ Les artefacts internes sont présentés uniquement en entretien.
   → `cv/CV_intermediaire.pdf`
 
 ---
-
-# Lien vers le projet
-
-→ https://github.com/vcharrie/coreservice

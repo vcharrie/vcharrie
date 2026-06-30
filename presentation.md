@@ -21,7 +21,7 @@ Après plusieurs années en architecture et coordination, j’ai souhaité **act
 - CI/CD GitHub Actions,
 - Docker et images sécurisées,
 - Kubernetes (kind puis EKS),
-- sécurité by design et DevSecOps,
+- sécurité applicative et DevSecOps,
 - documentation professionnelle,
 - pilotage d’IA dans un contexte d’ingénierie.
 
@@ -48,23 +48,19 @@ Je souhaite évoluer dans des environnements où l’architecture, la sécurité
 
 ## 4. Démarche Secure by Design transverse
 
-Le projet CoreService applique une démarche **Secure by Design** couvrant l’ensemble de la chaîne de valeur logicielle :
+La démarche mise en œuvre repose sur l’intégration de la sécurité **dans les phases que je maîtrise réellement** :
 
-**Stratégie → GRC → Architecture → Sécurité applicative → CI/CD → Sécurité d’exécution → Sécurité infrastructure**
+**Architecture → Sécurité applicative → CI/CD → Sécurité d’exécution → Sécurité infrastructure**
 
-Cette approche permet d’intégrer la sécurité dès la conception, de manière cohérente, industrialisée et transverse.
+Elle ne prétend pas couvrir la stratégie ou la GRC organisationnelle à ce stade, mais se concentre sur l’application concrète des bonnes pratiques de sécurité dans un projet d’ingénierie logicielle.  
+Les futures releases prévoient d’étendre cette démarche en articulant les exigences sécurité applicatives avec les exigences issues de la GRC (NIS2, analyses de risques) et de la gouvernance/stratégie.
 
-### 4.1 Stratégie & GRC
-- Identification des risques et exigences de sécurité,
-- Alignement avec les objectifs DSI,
-- Définition des contraintes transverses.
-
-### 4.2 Architecture logicielle
+### 4.1 Architecture logicielle
 - Conception d’une architecture moderne (Spring Boot 3, Docker, Kubernetes),
 - Définition des patterns de sécurité applicative,
 - Structuration des flux, zones de confiance et responsabilités.
 
-### 4.3 Sécurité applicative (processus structuré)
+### 4.2 Sécurité applicative (processus structuré)
 La sécurité applicative est intégrée via un processus en trois niveaux :
 
 1. **Fiches sécurité**  
@@ -79,16 +75,16 @@ La sécurité applicative est intégrée via un processus en trois niveaux :
    - Référence aux exigences sécurité comme contraintes transverses,  
    - Pas d’implémentation sécurité dans les specs fonctionnelles (centrées sur le métier).
 
-### 4.4 CI/CD & Supply Chain Security
+### 4.3 CI/CD & Supply Chain Security
 - Pipeline GitHub Actions sécurisé,
 - Analyse statique, SBOM, Trivy, VEX,
 - Durcissement des images et gestion des dépendances.
 
-### 4.5 Sécurité d’exécution
+### 4.4 Sécurité d’exécution
 - Déploiement Kubernetes local (kind) puis cloud (EKS),
 - NetworkPolicy, RBAC, secrets, observabilité.
 
-### 4.6 Sécurité infrastructure
+### 4.5 Sécurité infrastructure
 - Durcissement des environnements,
 - Gestion des identités cloud,
 - Séparation des rôles et privilèges.
@@ -99,9 +95,9 @@ La sécurité applicative est intégrée via un processus en trois niveaux :
 
 La démarche intègre un modèle innovant de collaboration humain–IA :
 
-- **Copilot** pour la génération (code, architectures, documents),
-- **Claude** pour le contrôle (sécurité, cohérence, conformité, qualité),
-- **Arbitrage humain** systématique pour garantir la maîtrise et la robustesse des livrables.
+- une IA de génération (code, architectures, documents),
+- une IA de contrôle (sécurité, cohérence, conformité, qualité),
+- un arbitrage humain systématique pour garantir la maîtrise et la robustesse des livrables.
 
 Ce principe de **contrôle croisé IA → IA**, supervisé par l’humain, reproduit un modèle de double validation utilisé dans les environnements critiques et renforce la qualité de la démarche Secure by Design.
 
@@ -123,7 +119,7 @@ Ce processus reproduit les pratiques d’une DSI moderne et démontre une capaci
 
 ## 7. Ce que ce projet démontre
 
-Le projet CoreService démontre :
+Ce projet démontre :
 
 - ma capacité à concevoir une architecture moderne,
 - ma maîtrise des pratiques DevSecOps,
@@ -140,7 +136,7 @@ Il constitue une preuve concrète de ma capacité à occuper un rôle d’**arch
 
 ## 8. Publication contrôlée
 
-Le projet **n’est pas encore publié intégralement**.
+Le projet **n’est pas publié intégralement**.
 
 Les artefacts internes (fiches sécurité, spécifications techniques, schémas complets, release notes détaillées) sont protégés et présentés uniquement en entretien.
 
@@ -186,4 +182,4 @@ Mon parcours, enrichi par ce projet, me permet aujourd’hui d’apporter :
 - une posture senior orientée qualité et stabilité,
 - une maîtrise de la collaboration humain–IA.
 
-Je suis prêt à contribuer à des projets où l’architecture, la sécurité, la CI/CD et la coordination sont des enjeux 
+Je suis prêt à contribuer à des projets où l’architecture, la sécurité, la CI/CD et la coordination sont des enjeux majeurs.
