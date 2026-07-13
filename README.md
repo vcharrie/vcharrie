@@ -122,13 +122,13 @@ Les artefacts internes sont présentés uniquement en entretien.
 # Documents détaillés
 
 - Présentation professionnelle complète  
-  → `presentation.md`
+  → [presentation.md](presentation.md)
 
 - CV intermédiaire (détaillé)  
-  → `cv/CV_intermediaire.md`
+  → [cv/CV_intermediaire.md](cv/CV_intermediaire.md)
 
 - CV court  
-  → `cv/CV_court.md`
+  → [cv/CV_court.md](cv/CV_court.md)
 
 - Versions PDF  
-  → `cv/CV_intermediaire.pdf`
+  → [cv/CV_intermediaire.pdf](cv/CV_intermediaire.pdf)
