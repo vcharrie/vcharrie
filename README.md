@@ -2,31 +2,32 @@
 
 ## Présentation courte
 
-Architecte logiciel avec plus de 18 ans d’expérience dans des environnements critiques (énergie, télécom, industrie), j’ai construit ma carrière autour de l’architecture applicative, de la coordination transverse, de la sécurité et de l’industrialisation.
+Ingénieur logiciel senior avec plus de 18 ans d’expérience, j’ai construit mon parcours autour de l’architecture applicative, du leadership technique Java, de la structuration de processus Agile et de l’intégration de la sécurité dans les projets d’ingénierie logicielle.  
+Mes rôles successifs — architecte solution, responsable technique Java, scrum master, chef de projet technique — ont façonné une expertise transverse centrée sur la conception de solutions, la coordination multi‑équipes et la sécurisation des architectures et des applications.
 
-En 2025, j’ai entrepris une mise à jour stratégique de mon socle technique pour intégrer pleinement les pratiques modernes du marché : Spring Boot 3, Docker, CI/CD GitHub Actions, Kubernetes (kind puis EKS), sécurité applicative, supply chain security et DevSecOps.
+En 2025, j’ai entrepris une mise à jour stratégique de mon socle technologique pour intégrer pleinement les pratiques modernes du marché : Spring Boot 3, CI/CD GitHub Actions, Docker, Kubernetes (kind puis EKS), sécurité applicative, supply chain security et DevSecOps.  
+Cette démarche s’est concrétisée par la réalisation du projet **CoreService**, un démonstrateur complet d’ingénierie logicielle illustrant :
 
-Cette démarche s’est concrétisée par la réalisation d’un **projet complet d’ingénierie logicielle**, construit release par release, démontrant :
-
-- une architecture moderne et documentée,
+- la construction d’une architecture moderne et sécurisée,
+- la structuration d’un SDLC complet (fonctionnel → technique → code),
 - une CI/CD sécurisée (analyse statique, SBOM, Trivy, VEX),
 - un déploiement Kubernetes local et cloud,
-- une documentation professionnelle,
-- une démarche Secure by Design centrée sur l’architecture, la sécurité applicative, la CI/CD et l’exécution,
-- une collaboration humain–IA pilotée et maîtrisée.
+- une démarche Secure by Design intégrée à chaque étape,
+- une collaboration humain–IA maîtrisée et documentée.
 
-Aujourd’hui, je me positionne principalement sur un rôle de **Consultant SSI transverse**, en m’appuyant sur mon expérience d’architecte logiciel et mes compétences DevSecOps. Je reste également ouvert à des postes d’architecte orienté sécurité ou de coordinateur transverse, où la qualité, la sécurité et l’industrialisation sont au cœur des enjeux.
+Aujourd’hui, je me positionne sur un rôle situé à la croisée naturelle de ces compétences :  
+**Architecte Solution**, **Responsable Technique Java** ou **Ingénieur Backend Senior Java/Spring Boot**, avec une forte orientation **Secure by Design** et **sécurisation des architectures et des applications**.
 
 ---
 
 # Démarche Secure by Design
 
-La démarche mise en œuvre repose sur l’intégration de la sécurité **dans les phases que je maîtrise réellement** :
+La démarche repose sur l’intégration de la sécurité **dans les phases que je maîtrise réellement** :
 
 **Architecture → Sécurité applicative → CI/CD → Sécurité d’exécution → Sécurité infrastructure**
 
-Elle ne prétend pas couvrir la stratégie ou la GRC organisationnelle, mais se concentre sur l’application concrète des bonnes pratiques de sécurité dans un projet d’ingénierie logicielle.  
-Les futures releases prévoient d’étendre cette démarche en articulant les exigences sécurité applicatives avec les exigences issues de la GRC (NIS2, analyses de risques) et de la gouvernance/stratégie.
+Elle vise à industrialiser la sécurité dans les projets en s’appuyant sur des pratiques concrètes, reproductibles et alignées avec les exigences du marché.  
+Les futures releases prévoient d’articuler ces exigences applicatives avec les exigences issues de la GRC (NIS2, analyses de risques) et de la gouvernance.
 
 ## Articulation des domaines
 
@@ -40,16 +41,16 @@ Les futures releases prévoient d’étendre cette démarche en articulant les e
 La sécurité applicative est intégrée via un processus structuré :
 
 1. **Fiches sécurité**  
-   - Identification des exigences sécurité par composant,
+   - Identification des exigences sécurité par composant,  
    - Définition des contrôles applicatifs (authN, authZ, validation, journalisation, secrets, etc.).
 
 2. **Spécifications techniques**  
-   - Déclinaison des exigences sécurité en mécanismes concrets,
+   - Déclinaison des exigences sécurité en mécanismes concrets,  
    - Patterns d’implémentation, contraintes d’architecture, contrôles à intégrer dans le code.
 
 3. **Spécifications fonctionnelles**  
-   - Référence aux exigences sécurité comme contraintes transverses,
-   - Pas d’implémentation sécurité dans les specs fonctionnelles (centrées sur le métier).
+   - Référence aux exigences sécurité comme contraintes transverses,  
+   - Spécifications centrées sur le métier, sans implémentation sécurité.
 
 ### CI/CD & Supply Chain Security
 - Pipeline GitHub Actions sécurisé,
@@ -69,13 +70,13 @@ La sécurité applicative est intégrée via un processus structuré :
 
 # Collaboration humain–IA (contrôle croisé)
 
-La démarche intègre un modèle innovant de collaboration humain–IA :
+La démarche s’appuie sur un modèle de collaboration humain–IA structuré :
 
 - une IA de génération (code, architectures, documents),
 - une IA de contrôle (sécurité, cohérence, conformité, qualité),
-- un arbitrage humain systématique pour garantir la maîtrise et la robustesse des livrables.
+- un arbitrage humain systématique pour garantir la maîtrise des livrables.
 
-Ce principe de **contrôle croisé IA → IA**, supervisé par l’humain, renforce la qualité de la démarche Secure by Design.
+Ce principe de **contrôle croisé IA → IA**, supervisé par l’humain, renforce la robustesse de la démarche Secure by Design.
 
 ---
 
@@ -131,5 +132,3 @@ Les artefacts internes sont présentés uniquement en entretien.
 
 - Versions PDF  
   → `cv/CV_intermediaire.pdf`
-
----

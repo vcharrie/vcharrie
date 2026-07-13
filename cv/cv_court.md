@@ -1,129 +1,88 @@
-# Vincent Charrier  
-**Consultant SSI – Architecte Logiciel – DevSecOps**  
+# Vincent Charrier
+**Architecte Solution • Responsable Technique Java • Ingénieur Backend Senior**  
 18 ans d’expérience  
 📧 charrier_vincent@proton.me  
-📱 07 88 05 70 57  
 🔗 linkedin.com/in/vincentcharrier  
-🔗 github.com/vcharrie  
+🔗 github.com/vcharrie
 
 ---
 
-# 🎯 Profil
+## PROFIL
 
-Architecte logiciel senior avec 18 ans d’expérience dans des environnements critiques (énergie, télécoms, industrie, secteur public).  
-Repositionnement vers un rôle de **Consultant SSI transverse**, en capitalisant sur :
+Ingénieur logiciel senior avec 18 ans d’expérience en architecture applicative, leadership technique Java, structuration de processus Agile et intégration de la sécurité dans les projets (Secure by Design, SSDLC).  
+Je me positionne aujourd’hui sur un rôle situé à la croisée naturelle de ces compétences : **Architecte Solution**, **Responsable Technique Java** ou **Ingénieur Backend Senior Java/Spring Boot**, avec une forte orientation **sécurisation des architectures et des applications**.
 
-- un socle solide en **architecture logicielle**,  
-- une expérience éprouvée en **coordination transverse**,  
-- une pratique avancée du **DevSecOps**,  
-- une montée en compétence structurée en **ISO 27001**, **EBIOS RM**, **PSSI ANSSI**.
-
-Démarche **Secure by Design**, intégration des exigences SSI dans toutes les phases du cycle de vie projet.  
-Projet personnel : pipeline CI/CD sécurisé (Spring Boot, Docker, Kubernetes, EKS).  
-→ github.com/vcharrie/coreservice
+En 2025–2026, j’ai actualisé mon socle technologique (Spring Boot 3, CI/CD GitHub Actions, Docker, Kubernetes/EKS, DevSecOps) à travers le projet **CoreService**, démonstrateur complet de mes compétences en architecture, conception, sécurité applicative et structuration du SDLC.
 
 ---
 
-# 🛡️ Compétences clés
+## COMPÉTENCES CLÉS
 
-**Sécurité applicative & SSI**  
-- Analyse d’impacts sécurité, audits applicatifs, recommandations  
-- Durcissement PostgreSQL, sécurisation des flux (SSL, LDAP)  
-- Documentation sécurité (DAT, schémas), conformité SSI interne  
-- Intégration Secure SDLC, sensibilisation équipes  
+### Architecture & Conception
+- Architecture applicative Java/Spring Boot  
+- Modélisation métier (EM, BR, UC), specs fonctionnelles & techniques  
+- Patterns de sécurité, règles métier sensibles, modèles d’état  
 
-**Architecture & Ingénierie logicielle**  
-- Architecture hexagonale, 12‑Factor  
-- Conception DataViz / DataWarehouse  
-- Optimisation performances (charge, mémoire, SQL)  
-- Gestion multi‑environnements (dev → prod, CI/CD, PRA)  
+### Leadership Technique
+- Référent technique Java, structuration du code, qualité logicielle  
+- Définition de processus Agile (Scrum), backlog, incrémentation  
+- Coordination multi‑équipes (DSI, exploitation, sécurité)
 
-**Coordination transverse & pilotage**  
-- Interface DSI / exploitation / infra / sécurité  
-- Animation ateliers techniques, gouvernance, reporting  
-- Structuration des processus et documentation  
+### Sécurité Applicative & Secure SDLC
+- Secure by Design, SSDLC, gestion des risques applicatifs  
+- Développement sécurisé (validation, durcissement, configuration Spring)  
+- Audits applicatifs, documentation sécurité, sensibilisation équipes  
 
----
-
-# 🛠️ Environnements techniques
-
-Java 21, Spring Boot 3.x, Spring Security 6.x, Angular  
-GitHub Actions, Jenkins, Maven, Git  
-Docker (runtime durci), Kubernetes (kind, EKS), Kustomize  
-PostgreSQL (durci), Oracle  
-Linux (CentOS, RHEL), Windows Server  
-Qlik Sense, Nginx, SSL/LDAP  
-ISO 27001, EBIOS RM, PSSI ANSSI, OWASP, CIS Benchmark K8S  
+### CI/CD, Cloud & DevSecOps
+- Pipelines CI/CD sécurisés (GitHub Actions, analyse statique, SBOM, Trivy)  
+- Docker durci, Kubernetes (kind, EKS), RBAC, NetworkPolicies  
+- Observabilité : logs, traces, métriques, dashboards  
 
 ---
 
-# 🧭 Expériences professionnelles
+## EXPÉRIENCES RÉCENTES
 
-## **Architecte logiciel / Coordination transverse — EDF HYDRO**  
-**2020 – 2024**
+### **Projet CoreService — démonstrateur d’ingénierie logicielle**  
+Indépendant • 2025–2026  
+- Architecture Spring Boot sécurisée, modélisation métier, specs complètes  
+- CI/CD sécurisé (analyse statique, SBOM, scans Docker)  
+- Déploiement Kubernetes local & cloud (EKS, RBAC, NetworkPolicies)  
+- Intégration du Secure SDLC, gestion des risques, auditabilité  
+- Documentation professionnelle (architecture, sécurité, pipelines) 
 
-Évolution et sécurisation des architectures **DataViz** et **DataWarehouse** dans un environnement critique.  
-Migrations techniques (serveurs, CI/CD), conformité architecture/sécurité, coordination transverse.
+### **Architecte logiciel & sécurité — Référent sécurité projets (SSDL)**  
+EDF Hydro • 2020–2024  
+- Architecture sécurisée Data Warehouse/ETL & DataViz  
+- Durcissement PostgreSQL/Java/CentOS, supervision, gouvernance accès  
+- Refonte CI/CD, optimisation performances, traçabilité complète  
+- Modernisation applications legacy, intégration SSO OpenID Connect  
+- Intégration sécurité dans le SDLC, accompagnement transverse
 
-- Optimisation PostgreSQL (mémoire, WAL, I/O), partitionnement disques  
-- Refonte CI/CD, structuration environnements (dev → prod), supervision  
-- Durcissement Postgres, conformité SSI interne, audits, DAT  
-- Interface DSI / exploitation / infra / sécurité  
+### **Chef de projet technique / PaaS & CaaS**  
+Orange • 2019–2020  
+- Support projets sur Pivotal & OpenShift  
+- Analyse architectures, pipelines CI/CD, contraintes sécurité  
+- Pilotage offres PaaS/CaaS, coordination exploitation OpenShift
 
-**Environnements :** Windows Server, CentOS, PostgreSQL, Jenkins, Qlik Sense, Git  
-
----
-
-## **Chef de projet technique — ORANGE**  
-**2019 – 2020**
-
-Migration des projets internes vers la plateforme **Cloud Foundry**.  
-Analyse d’impacts techniques, coordination transverse, intégration CaaS.
-
-- Analyse architecture/performance  
-- Gouvernance DIOD, animation technique  
-- Volet sécurité : analyses d’impacts SSI, conformité standards internes  
-
-**Environnements :** Cloud Foundry, Pivotal CF, OpenShift, Linux, Git  
-
----
-
-## **Développeur Fullstack / Référent technique — ADEUNIS**  
-**2018 – 2019**
-
-Socle Spring Boot / Angular pour plateforme IoT.  
-Authentification, autorisations, gestion des accès.
-
-- Référent technique : revues de code, support, dossier d’architecture  
-- Volet sécurité : contrôles d’accès, bonnes pratiques secure coding  
-
-**Environnements :** Spring Boot, Java, Angular 2, PostgreSQL, Jenkins, Git  
+### **Développeur Fullstack / Référent technique**  
+Adeunis • 2018–2019  
+- Architecture Web IoT (Spring Boot + Angular)  
+- Sécurisation API REST, gestion états/alertes, lead technique
 
 ---
 
-## **Schneider Electric — rôles successifs (2014 – 2018)**  
-Scrum Master, coordinateur technique, puis chef de projet développement.
+## FORMATIONS & CERTIFICATIONS
 
-- Pilotage Scrum, coordination transverse  
-- Structuration CI/CD, supervision mises en production  
-- Volet sécurité : SSO, reverse proxy, cloisonnement, durcissement PostgreSQL  
-
-**Environnements :** AngularJS, Java/J2EE, Tomcat, PostgreSQL, Jenkins  
-
----
-
-## **Autres expériences (2005 – 2014)**  
-Orange, Voyages SNCF, DGFIP, OMPI, DAMGM  
-Développement Java/J2EE, optimisation performances, intégration continue, architecture sécurisée dans des environnements critiques.
-
----
-
-# 🎓 Formations & certifications
-
-- Ingénieur Informatique — ENIB  
-- DESS Gestion de Projet Innovation — IAE Nantes  
+- Ingénieur Informatique (ENIB)  
+- DESS Gestion de Projet Innovation (IAE Nantes)  
 - Scrum Master  
-- Azure AZ‑900 (2025)  
-- PSSI ANSSI SecNum (2025*)  
-- ISO 27001 — auto‑formation structurée  
-- EBIOS RM — auto‑formation Club EBIOS
+- Azure AZ‑900  
+- PSSI ANSSI SecNum  
+- ISO 27001 (auto‑formation structurée)  
+- EBIOS RM (Club EBIOS)
+
+---
+
+## ENVIRONNEMENTS TECHNIQUES
+
+Java 21, Spring Boot 3, Spring Security 6, Docker, Kubernetes/EKS, GitHub Actions, SBOM, Trivy, PostgreSQL durci, Linux, AWS, Azure, Jenkins, Git, OWASP, CIS Benchmarks.
